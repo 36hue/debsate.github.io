@@ -1,2 +1,0 @@
-# debsate
-main
